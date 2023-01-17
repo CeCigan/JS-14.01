@@ -1,4 +1,3 @@
-
         var image = new Image();
         image.onload = function(){
             setInterval(move,100);
